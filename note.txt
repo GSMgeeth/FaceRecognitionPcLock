@@ -1,0 +1,9 @@
+👍️Log and see if it's go to MODERATE when cover the face half. If it still identify it's you only with the MAX, then remove the MODERATE.
+
+👍️Test run in the background from .py file
+
+PyInstaller -> generate the installer and test
+
+nohup python3 identify_geeth_with_face_detection.py &
+kill 7947
+
